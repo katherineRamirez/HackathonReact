@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+Footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #FF5722;
+  color: white;
+
+  text-align: center;
+  font-size: 0.6em;
+}
+
+
+.main{
+  background-image: url(./Captura.jpg);
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button{
+  background-image: url(./boton.png);
+  width: 62%;
+  height: 20%;
+  padding-left: 1.9em;
+  background-size: cover;
+  position: absolute;
+  top: 16.5em;
+  left: 4.5em;
+}
+.link{
+  text-decoration: none;
+  position: relative;
+  top: 2.3em;
+  left: 1.3em;
+  color: transparent;
+}
+li{
+   list-style: none;
+}
